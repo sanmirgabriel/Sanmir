@@ -24,4 +24,4 @@ I have hands-on experience performing real-world penetration tests in corporate 
 ## Contact
 
 LinkedIn: [linkedin](https://www.linkedin.com/in/sanmir-gabriel/)
-GitHub: https://github.com/Sanmiir
+GitHub: https://github.com/sanmirgabriel
