@@ -1,5 +1,7 @@
 # Sanmir Gabriel
 
+About me
+
 Junior Penetration Tester focused on Active Directory and Web Security.
 
 I have hands-on experience performing real-world penetration tests in corporate environments, including full attack chains, exploitation, post-exploitation and professional reporting.
